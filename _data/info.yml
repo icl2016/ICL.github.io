@@ -1,6 +1,6 @@
 overview:
-  - 이 연구실은 아주 좋은 연구실 입니다.
-  - 연구실에 대한 대략적인 소개를 _data 폴더의 info.yml 파일에 써 주세요.
+  - 홈페이지 수정 중 입니다.
+  - 홈페이지 수정 중 입니다.
 
 mainFig:
   - frontImg_1.jpg
@@ -8,19 +8,19 @@ mainFig:
   - frontImg_3.jpg
 
 affiliation:
-  - school: 치의학대학원 #단과대학
-    department: 구강생리학교실 #교실
-    program: 신경생물학전공 #전공
+  - school: 홈페이지 수정 중 입니다.원 #단과대학
+    department: 홈페이지 수정 중 입니다. #교실
+    program: 홈페이지 수정 중 입니다. #전공
 
-  - school: 자연과학대학 #단과대학
+  - school: 홈페이지 수정 중 입니다. #단과대학
     department: #교실
-    program: 협동과정 뇌과학전공 #전공
+    program: 홈페이지 수정 중 입니다. #전공
 
   - school: BK21+ #단과대학
-    department: 치의학생명과학사업단
+    department: 홈페이지 수정 중 입니다.
     program: #전공
 
-  - school: 치학연구소 #단과대학
+  - school: 홈페이지 수정 중 입니다. #단과대학
     department: #교실
     program:  #전공
 
