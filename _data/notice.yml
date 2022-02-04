@@ -1,12 +1,14 @@
 - title: 홈페이지 공지사항 위치입니다.
-  notice: 공지사항은 _data 폴더 안에 notice.yml 파일에 작성하세요.
-  현재 공지사항란 테스트 중입니다.
+  notice_line_1: 공지사항은 _data 폴더 안에 notice.yml 파일에 작성하세요.
+  notice_line_2: 현재 공지사항란 테스트 중입니다.
   status: open
 
 - title: 두번째 공지
-  notice: 이 공지는 보이지 않습니다. (status가 close 입니다)
+  notice_line_1: 공지사항은 _data 폴더 안에 notice.yml 파일에 작성하세요.
+  notice_line_2: 현재 공지사항란 테스트 중입니다.
   status: close
 
 - title: 세번째 공지
-  notice: 이 공지는 보이지 않습니다. (status가 close 입니다)
+  notice_line_1: 공지사항은 _data 폴더 안에 notice.yml 파일에 작성하세요.
+  notice_line_2: 현재 공지사항란 테스트 중입니다.
   status: close
