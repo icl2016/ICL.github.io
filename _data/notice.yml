@@ -1,6 +1,6 @@
 - title: Intelligent Contents Laboratory
   notice: 경기대학교 문헌정보학과 지능형 콘텐츠 연구실(Intelligent Contents Laboratory, ICL)은 인문학적 감성과 최신 IT 기술을 동시에 추구합니다.
-  status: open
+  status: close
 
 - title: 두번째 공지
   notice: 공지사항은 _data 폴더 안에 notice.yml 파일에 작성하세요.
