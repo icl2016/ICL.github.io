@@ -13,11 +13,11 @@ affiliation:
     program: 문헌정보학과 #전공
 
 address:
-  building: 병원 # 본관/재료/병원/관악 넷중 하나로 입력
-  office: 50x호
-  lab: 50x호
+  building: 경기대 # 본관/재료/병원/관악 넷중 하나로 입력
+  office: 교수연구동 B609호
+  lab: 에이스광교타워 2차 808호
 
 phone:
-  office: 02-880-xxxx
-  lab: 02-880-xxxx
-  fax: 02-762-xxxx
+  office: 
+  lab: 
+  fax: 
